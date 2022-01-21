@@ -92,25 +92,24 @@
                 android:textColor="@color/primaryTextColor"
                 android:textSize="@dimen/newsMoreTextSize" />
 
-            <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
+            <Button
                 android:id="@+id/cirLoginButton"
                 style="@style/loginButton"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="@dimen/loginViewsMargin"
                 android:text="Login"
-                app:initialCornerAngle="27dp"
-                app:spinning_bar_color="#FFF"
-                app:spinning_bar_padding="6dp"
-                app:spinning_bar_width="4dp" />
+                 />
 
             <TextView
+                android:id="@+id/textview_register"
                 style="@style/parent"
                 android:layout_marginTop="@dimen/loginViewsMargin"
-                android:onClick="onLoginClick"
                 android:text="@string/new_user_register_now"
                 android:textColor="@color/themeColor"
                 android:textSize="17sp"
                 android:textStyle="bold"/>
+<!--                android:onClick="onLoginClick"-->
+
 
             <LinearLayout
                 android:layout_width="match_parent"
