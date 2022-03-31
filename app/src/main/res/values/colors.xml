@@ -8,6 +8,7 @@
     <color name="purple_700">#D2B4DE</color>
     <color name="black">#000000</color>
     <color name="white">#FDFEFE</color>
+    <color name="grey">#4b4b4b</color>
     <color name="purple_500">#BB8FCE</color>
     <color name="teal_200">#48C9B0</color>
     <color name="darkTextColor">#020000</color>
@@ -17,6 +18,7 @@
     <color name="whiteTextColor">#fff</color>
     <color name="primaryTextColor">#11CFC5</color>
     <color name="red">#D32F2F</color>
+    <color name="green">#4CAF50</color>
 
     <color name="colorGradientStart">#1794CC</color>
     <color name="colorGradientCenter">#17589E</color>
