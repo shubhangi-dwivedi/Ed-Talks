@@ -30,7 +30,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
-import com.nitjsr.tapcell.Modals.InterviewExperience;
+import com.example.ed_talk.Modals.InterviewExperience;
 import com.example.ed_talk.R;
 
 public class AddInterviewExperienceActivity extends Activity implements  AdapterView.OnItemSelectedListener{

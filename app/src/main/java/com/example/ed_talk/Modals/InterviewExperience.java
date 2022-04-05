@@ -1,4 +1,4 @@
-package com.nitjsr.tapcell.Modals;
+package com.example.ed_talk.Modals;
 
 import java.io.Serializable;
 
